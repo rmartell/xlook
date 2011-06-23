@@ -1,0 +1,13 @@
+.deps
+*.o
+*.cache
+*.log
+xlook
+toDouble.files
+stamp-h1
+junkfilelap
+junkfilelk
+config.status
+config.h.in
+Makefile
+
